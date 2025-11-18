@@ -1,1 +1,1 @@
-print('xin chào mọi người')
+print('xin chị dừng')
